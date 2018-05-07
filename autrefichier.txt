@@ -1,1 +1,2 @@
-Et encore un autre fichier
+Et encore un fichier de plus.
+Une ligne ajoutée depuis github.com.
