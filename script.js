@@ -1,5 +1,5 @@
 function a(){
-  alert('a')
+  alert('A')
 }
 
 function b(){
