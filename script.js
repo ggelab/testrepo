@@ -5,3 +5,7 @@ function a(){
 function b(){
   alert('b')
 }
+
+function c(){
+  alert('CC')
+}
